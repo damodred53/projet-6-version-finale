@@ -17,8 +17,6 @@ function Collapse({ titre, paragraphe, id }) {
   function handleClick(event) {
     setCount(count + 1)
     setSelected(!selected);
-    console.log(ref.current);
-    console.log(count)
   }
 
   return (
