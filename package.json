@@ -2,6 +2,7 @@
   "name": "projet-kasa",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://damodred53.github.io/projet-6-version-finale",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -17,7 +18,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "sass": "sass --watch ./main.scss:./src/pages/about/about.css && ./main.scss:./src/pages/logement/logement.css && ./main.scss:./src/pages/home/home.css && ./main.scss:./src/pages/error/error.css"
+    "sass": "sass --watch ./main.scss:./src/pages/about/about.css && ./main.scss:./src/pages/logement/logement.css && ./main.scss:./src/pages/home/home.css && ./main.scss:./src/pages/error/error.css",
+    "predeploy": "npm run build",
+    "deploy":"gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -38,6 +41,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "prettier": "^2.8.8"
   }
 }
