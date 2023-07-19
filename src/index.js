@@ -18,7 +18,7 @@ root.render(
           <Routes>
             <Route path="/*" element={<Home/>} />
             <Route path="/about" element={<About/>} />
-            
+            <Route path='https://damodred53.github.io/projet-6-version-finale/' element={<Home/>} />
             <Route path="/logement/:id" element={<Logement/>} />
           </Routes>
           
