@@ -20,7 +20,6 @@ root.render(
             <Route path="/about" element={<About/>} />
             <Route path="/logement/:id" element={<Logement/>} />
           </Routes>
-          
     </Router>
   </React.StrictMode>
 );
