@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/projet-6-version-finale/static/css/main.b1e13298.css",
-    "main.js": "/projet-6-version-finale/static/js/main.02992940.js",
-    "static/js/787.1b2a24d7.chunk.js": "/projet-6-version-finale/static/js/787.1b2a24d7.chunk.js",
-    "static/media/IMG_2.png": "/projet-6-version-finale/static/media/IMG_2.dc7a08e1faa2e14de0bd.png",
-    "static/media/IMG.png": "/projet-6-version-finale/static/media/IMG.1168be13650bb18b456e.png",
-    "index.html": "/projet-6-version-finale/index.html",
-    "main.b1e13298.css.map": "/projet-6-version-finale/static/css/main.b1e13298.css.map",
-    "main.02992940.js.map": "/projet-6-version-finale/static/js/main.02992940.js.map",
-    "787.1b2a24d7.chunk.js.map": "/projet-6-version-finale/static/js/787.1b2a24d7.chunk.js.map"
+    "main.css": "/site_logement_Kasa/static/css/main.3f635f46.css",
+    "main.js": "/site_logement_Kasa/static/js/main.5b7cacb3.js",
+    "static/js/787.1b2a24d7.chunk.js": "/site_logement_Kasa/static/js/787.1b2a24d7.chunk.js",
+    "static/media/IMG_2.png": "/site_logement_Kasa/static/media/IMG_2.dc7a08e1faa2e14de0bd.png",
+    "static/media/IMG.png": "/site_logement_Kasa/static/media/IMG.1168be13650bb18b456e.png",
+    "index.html": "/site_logement_Kasa/index.html",
+    "main.3f635f46.css.map": "/site_logement_Kasa/static/css/main.3f635f46.css.map",
+    "main.5b7cacb3.js.map": "/site_logement_Kasa/static/js/main.5b7cacb3.js.map",
+    "787.1b2a24d7.chunk.js.map": "/site_logement_Kasa/static/js/787.1b2a24d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1e13298.css",
-    "static/js/main.02992940.js"
+    "static/css/main.3f635f46.css",
+    "static/js/main.5b7cacb3.js"
   ]
 }
