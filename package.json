@@ -2,7 +2,7 @@
   "name": "projet-kasa",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://damodred53.github.io/projet-6-version-finale",
+  "homepage": "https://damodred53.github.io/site_logement_Kasa",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
